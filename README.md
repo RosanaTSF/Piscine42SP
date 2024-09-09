@@ -1,8 +1,9 @@
 <div align="center">
 
-# 42 C Projects
+# 42 C Piscine
 
 </div>
+PS. Esse projeto ainda será refeito. Participei da Piscina na 42SP, mas esqueci de salvar meus projetos e precisarei reproduzir. 
 
 ## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
 
