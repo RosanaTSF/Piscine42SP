@@ -1,43 +1,43 @@
 <div align="center">
 
-# Piscine 42
-(Piscina - 42 SP)
+# 🛟 Piscine 42 SP 🛟
+**(The 42 SP Experience)**
+
 </div>
 
-## Piscine Tips
+> **About the Piscine:** 
+> The Piscine is a journey of 26 days filled with exercises in **#Shell** and **#C**. During this period, participants are evaluated and also evaluate their peers. It’s a time of exams, rushes, and, of course, a lot of learning in every sense. These days are incredible, and I cherished every second! 👽💚 **42 São Paulo**.
 
-> **Tip:** Utilize External Tools and Resources:
+> **Tips:** Leverage External Tools and Resources:
 
-### Collaboration
-- 🫂 **Talk to Your Peers:** Don’t hesitate to discuss your ideas and challenges with other participants.
-- 📮 **Join the 42 Slack:** A great platform to ask questions and exchange knowledge.
+- 🫂 **Engage with Your Peers:** Embrace discussions with fellow participants to share ideas and overcome challenges.
+- 📮 **Join the 42 Slack Community:** A fantastic platform for questions, support, and knowledge exchange.
 
-### Community
-- 💬 **42 Piscine Discord Server:** Use it for group communication and support.
-- 🧠 **Check Other GitHub Accounts:** See how others have solved the same problems.
-- ⌨️ **Norminette:** Remember to format your code according to the standards. Keep consistency!
+- 💬 **Join the 42 Piscine Discord Server:** Your hub for group communication and support.
+- 🧠 **Explore GitHub Projects:** Discover how others have approached similar problems.
+- ⌨️ **Adhere to Norminette Standards:** Keep your code consistent and well-formatted.
 
-### Conclusion
-Make the most of the Piscine, utilize the available resources, and don’t be afraid to ask for help. Good luck!
+Good luck on your journey!
 
 ---
 
 <div align="center">
 
+# 🛟 Piscina 42 SP 🛟
+**(Experiência 42 SP)**
+
 </div>
 
-## Dicas da Piscina
+> **Sobre a Piscina:** 
+> A Piscina é uma jornada de 26 dias repletos de listas de exercícios em **#Shell** e **#C**. Durante esse período, os participantes são avaliados e também avaliam seus colegas. É um tempo de exames, rushs, e, claro, muito aprendizado em todos os sentidos. Esses dias são incríveis e eu aproveitei cada segundo! 👽💚 **42 São Paulo**.
 
-> Utilize Ferramentas e Recursos Externos:
+> **Dicas:** Aproveite Ferramentas e Recursos Externos:
 
-### Colaboração
-- 🫂 **Converse com seus colegas:** Não hesite em discutir suas ideias e desafios com outros participantes.
-- 📮 **Participe do Discord da 42:** Uma ótima plataforma para tirar dúvidas e trocar conhecimentos.
+- 🫂 **Engaje com Seus Colegas:** Abra-se para discussões com participantes para compartilhar ideias e superar desafios.
+- 📮 **Participe da Comunidade Slack da 42:** Uma plataforma fantástica para perguntas, apoio e troca de conhecimentos.
 
-### Comunidade
-- 💬 **Discord da 42 Piscina:** Utilize para comunicação em grupo e suporte.
-- 🧠 **Explore outros repositórios do GitHub:** Veja como outras pessoas resolveram os mesmos problemas.
-- ⌨️ **Norminette:** Lembre-se de formatar seu código de acordo com as normas. Mantenha a consistência!
+- 💬 **Participe do Servidor Discord da 42 Piscina:** Para comunicação em grupo e suporte.
+- 🧠 **Explore Projetos no GitHub:** Descubra como outras pessoas resolveram problemas semelhantes.
+- ⌨️ **Siga os Padrões da Norminette:** Mantenha seu código consistente e bem formatado.
 
-### Conclusão
-Aproveite ao máximo a Piscine, utilize os recursos disponíveis e não peça ajuda. Boa sorte!
+Boa sorte em sua jornada!
