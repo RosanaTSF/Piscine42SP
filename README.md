@@ -1,6 +1,6 @@
 <div align="center">
 
-# 42 C Piscine
+# 42 Piscine
 </div>
 
 ## Piscine Tips
@@ -23,7 +23,7 @@ Make the most of the Piscine, utilize the available resources, and don’t be af
 
 <div align="center">
 
-# 42 C Piscine
+# Piscina da 42
 
 </div>
 
