@@ -1,6 +1,7 @@
 <div align="center">
 
-# 42 Piscine
+# Piscine 42
+(Piscina - 42 SP)
 </div>
 
 ## Piscine Tips
@@ -22,8 +23,6 @@ Make the most of the Piscine, utilize the available resources, and don’t be af
 ---
 
 <div align="center">
-
-# Piscina da 42
 
 </div>
 
