@@ -3,7 +3,7 @@
 # 42 C Piscine
 
 </div>
-PS. Esse projeto será refeito. Participei da Piscina, mas deixei de salvar meus projetos e precisarei reproduzir. 
+PS. Esse projeto ainda não foi refeito. Participei da Piscina, mas como não salvei meus projetos, precisarei reproduzir. 
 
 # Piscine Tips
 
